@@ -1,20 +1,3 @@
-Package: com.hk.appprotectrootless
-Version: 1.7.9
-Architecture: iphoneos-arm64
-Maintainer: aReo
-Depends: mobilesubstrate,preferenceloader
-Conflicts: com.flex2areo.appprotect, com.flex2areo.appprotectrootless
-Filename: rootless/AppProtect(rootless)_1.7.9.deb
-Size: 166360
-MD5sum: 4872eaea089406789c3e84f059c17882
-SHA1: 14fb43feb9e51da63957166e4444cbbea1d81beb
-SHA256: 46c4d02701d9e7d17f9fec66e710151ce47cbd40fe0d8834efa1e2ab8c1ba15a
-Section: 嗨-付费
-Description: 一款强大的App隐私保护插件，系付费插件，25元自行购买。和AppTools一起打包购买，40元。
-Author: aReo
-Name: CCMoudels(rootless)
-
-
 Package: com.jailbreak365.safeccmodules
 Version: 1.5-1
 Architecture: iphoneos-arm
