@@ -18,3 +18,43 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesD
 Dev: jailbreak365
 Name: CCModules
 
+Package: com.jailbreak365.safeccmodules
+Version: 1.5-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5131
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: rootless/com.jailbreak365.safeccmodules.deb
+Size: 1127042
+MD5sum: 3ba1fd1aaa2f08af7d7c84c0ab9c6076
+SHA1: 071c8b08fbfb3bc816121a2af6f2c2a7d6db9c49
+SHA256: e32c31dd327daf2466119cdceafab191f7fc9aa931b506bbcee43a27b8df15ba
+Section: Addons (ControlCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Description: More control center modules for iOS 11/12/13
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: jailbreak365 <jailbreak365@mail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Dev: jailbreak365
+Name: CCModules
+
+Package: com.jailbreak365.safeccmodules
+Version: 1.5-1
+Architecture: iphoneos-arm
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5131
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: rootless/com.jailbreak365.safeccmodules.deb
+Size: 1127042
+MD5sum: 3ba1fd1aaa2f08af7d7c84c0ab9c6076
+SHA1: 071c8b08fbfb3bc816121a2af6f2c2a7d6db9c49
+SHA256: e32c31dd327daf2466119cdceafab191f7fc9aa931b506bbcee43a27b8df15ba
+Section: Addons (ControlCenter)
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Description: More control center modules for iOS 11/12/13
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Author: jailbreak365 <jailbreak365@mail.com>
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Dev: jailbreak365
+Name: CCModules
+
